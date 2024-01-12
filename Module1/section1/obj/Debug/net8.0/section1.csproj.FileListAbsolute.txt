@@ -12,3 +12,4 @@
 /Users/bahkho/Documents/Winter 2024/PROG2200/Lab1/Module1/section1/obj/Debug/net8.0/section1.pdb
 /Users/bahkho/Documents/Winter 2024/PROG2200/Lab1/Module1/section1/obj/Debug/net8.0/section1.genruntimeconfig.cache
 /Users/bahkho/Documents/Winter 2024/PROG2200/Lab1/Module1/section1/obj/Debug/net8.0/ref/section1.dll
+/Users/bahkho/Documents/Winter 2024/PROG2200/Lab1/Module1/section1/obj/Debug/net8.0/section1.sourcelink.json
