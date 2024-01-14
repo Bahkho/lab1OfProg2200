@@ -1,0 +1,15 @@
+/Users/bahkho/Documents/Winter 2024/PROG2200/Lab1/Module1/section11/bin/Debug/net8.0/section11
+/Users/bahkho/Documents/Winter 2024/PROG2200/Lab1/Module1/section11/bin/Debug/net8.0/section11.deps.json
+/Users/bahkho/Documents/Winter 2024/PROG2200/Lab1/Module1/section11/bin/Debug/net8.0/section11.runtimeconfig.json
+/Users/bahkho/Documents/Winter 2024/PROG2200/Lab1/Module1/section11/bin/Debug/net8.0/section11.dll
+/Users/bahkho/Documents/Winter 2024/PROG2200/Lab1/Module1/section11/bin/Debug/net8.0/section11.pdb
+/Users/bahkho/Documents/Winter 2024/PROG2200/Lab1/Module1/section11/obj/Debug/net8.0/section11.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bahkho/Documents/Winter 2024/PROG2200/Lab1/Module1/section11/obj/Debug/net8.0/section11.AssemblyInfoInputs.cache
+/Users/bahkho/Documents/Winter 2024/PROG2200/Lab1/Module1/section11/obj/Debug/net8.0/section11.AssemblyInfo.cs
+/Users/bahkho/Documents/Winter 2024/PROG2200/Lab1/Module1/section11/obj/Debug/net8.0/section11.csproj.CoreCompileInputs.cache
+/Users/bahkho/Documents/Winter 2024/PROG2200/Lab1/Module1/section11/obj/Debug/net8.0/section11.sourcelink.json
+/Users/bahkho/Documents/Winter 2024/PROG2200/Lab1/Module1/section11/obj/Debug/net8.0/section11.dll
+/Users/bahkho/Documents/Winter 2024/PROG2200/Lab1/Module1/section11/obj/Debug/net8.0/refint/section11.dll
+/Users/bahkho/Documents/Winter 2024/PROG2200/Lab1/Module1/section11/obj/Debug/net8.0/section11.pdb
+/Users/bahkho/Documents/Winter 2024/PROG2200/Lab1/Module1/section11/obj/Debug/net8.0/section11.genruntimeconfig.cache
+/Users/bahkho/Documents/Winter 2024/PROG2200/Lab1/Module1/section11/obj/Debug/net8.0/ref/section11.dll
