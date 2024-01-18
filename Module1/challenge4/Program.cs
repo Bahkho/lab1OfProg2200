@@ -16,19 +16,20 @@ namespace challenge4
                 var newStudent = new Student();
 
                 Console.Write("Student Name: ");
-                newStudent.StudentInfo[0] = Console.ReadLine();
+                string nameInput = Console.ReadLine() ?? string.Empty;
 
                 Console.Write("Student Grade: ");
-                newStudent.StudentInfo[1] = Console.ReadLine();
+                newStudent.StudentInfo[1] = Console.ReadLine() ?? string.Empty;
 
                 Console.Write("Student Birthday: ");
-                newStudent.Birthday = Console.ReadLine();
+                newStudent.Birthday = Console.ReadLine() ?? string.Empty;
 
                 Console.Write("Student Address: ");
-                newStudent.Address = Console.ReadLine();
+                newStudent.Address = Console.ReadLine() ?? string.Empty;
 
                 Console.Write("Student Phone Number: ");
-                newStudent.Phone = int.Parse(Console.ReadLine());
+                int.TryParse(Console.ReadLine(), out int phone);
+                newStudent.Phone = phone;
 
                 students.Add(newStudent);
 
@@ -47,8 +48,8 @@ namespace challenge4
     class Student
     {
         public string[] StudentInfo = new string[2];
-        public string Birthday;
-        public string Address;
+        public string? Birthday; // Declare Birthday field as nullable
+        public string? Address;
         public int Phone;
     }
 }

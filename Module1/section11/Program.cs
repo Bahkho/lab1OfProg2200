@@ -38,9 +38,9 @@ class Program
         if (answer == "")
         {
             Console.WriteLine("You didn't type anything, please try again:");
-            return Console.ReadLine();
+            answer = Console.ReadLine();
         }
-        return answer;
+        return answer ?? string.Empty;
     }
 }
 

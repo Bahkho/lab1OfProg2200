@@ -5,7 +5,16 @@ class Program
     static void Main(string[] args)
     {
         Console.WriteLine("How many years of experience do you have?");
-        var years = int.Parse(Console.ReadLine());
+        var input = Console.ReadLine();
+        int years;
+        if (int.TryParse(input, out years))
+        {
+            // Use the 'years' variable here
+        }
+        else
+        {
+            Console.WriteLine("Invalid input. Please enter a valid integer.");
+        }
 
         switch (years)
         {
