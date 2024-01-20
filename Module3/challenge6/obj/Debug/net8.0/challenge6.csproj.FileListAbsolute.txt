@@ -1,0 +1,15 @@
+/Users/bahkho/Documents/Winter 2024/PROG2200/Lab1/Module3/challenge6/bin/Debug/net8.0/challenge6
+/Users/bahkho/Documents/Winter 2024/PROG2200/Lab1/Module3/challenge6/bin/Debug/net8.0/challenge6.deps.json
+/Users/bahkho/Documents/Winter 2024/PROG2200/Lab1/Module3/challenge6/bin/Debug/net8.0/challenge6.runtimeconfig.json
+/Users/bahkho/Documents/Winter 2024/PROG2200/Lab1/Module3/challenge6/bin/Debug/net8.0/challenge6.dll
+/Users/bahkho/Documents/Winter 2024/PROG2200/Lab1/Module3/challenge6/bin/Debug/net8.0/challenge6.pdb
+/Users/bahkho/Documents/Winter 2024/PROG2200/Lab1/Module3/challenge6/obj/Debug/net8.0/challenge6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bahkho/Documents/Winter 2024/PROG2200/Lab1/Module3/challenge6/obj/Debug/net8.0/challenge6.AssemblyInfoInputs.cache
+/Users/bahkho/Documents/Winter 2024/PROG2200/Lab1/Module3/challenge6/obj/Debug/net8.0/challenge6.AssemblyInfo.cs
+/Users/bahkho/Documents/Winter 2024/PROG2200/Lab1/Module3/challenge6/obj/Debug/net8.0/challenge6.csproj.CoreCompileInputs.cache
+/Users/bahkho/Documents/Winter 2024/PROG2200/Lab1/Module3/challenge6/obj/Debug/net8.0/challenge6.sourcelink.json
+/Users/bahkho/Documents/Winter 2024/PROG2200/Lab1/Module3/challenge6/obj/Debug/net8.0/challenge6.dll
+/Users/bahkho/Documents/Winter 2024/PROG2200/Lab1/Module3/challenge6/obj/Debug/net8.0/refint/challenge6.dll
+/Users/bahkho/Documents/Winter 2024/PROG2200/Lab1/Module3/challenge6/obj/Debug/net8.0/challenge6.pdb
+/Users/bahkho/Documents/Winter 2024/PROG2200/Lab1/Module3/challenge6/obj/Debug/net8.0/challenge6.genruntimeconfig.cache
+/Users/bahkho/Documents/Winter 2024/PROG2200/Lab1/Module3/challenge6/obj/Debug/net8.0/ref/challenge6.dll
