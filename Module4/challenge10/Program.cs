@@ -29,8 +29,15 @@ namespace challenge10
     }
     class Program
     {
+        static public event Action Posted;
         static void Main(string[] args)
         {
+            var stats = new Stats();
+            stats.Start();
+
+            var marketing = new Marketing();
+            marketing.SubscribeToSurvey();
+
             var data = new Data();
 
             Console.WriteLine("What is your name?");
@@ -41,6 +48,12 @@ namespace challenge10
 
             Console.WriteLine("What month were you born in?");
             data.Month = TryAnswer();
+
+            if (Posted != null)
+
+                Posted();
+
+            // Posted?.Invoke();
 
             data.Display();
         }
