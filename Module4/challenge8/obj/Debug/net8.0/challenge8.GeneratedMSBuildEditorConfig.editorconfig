@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = challenge8
-build_property.ProjectDir = /Users/bahkho/Documents/Winter 2024/PROG2200/Lab1/Module4/challenge8/
+build_property.ProjectDir = /Users/bahkho/Documents/Winter2024/PROG2200/Lab1/Module4/challenge8/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
